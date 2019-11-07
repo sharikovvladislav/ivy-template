@@ -926,15 +926,10 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.3.tgz#3dca0e3f33b200fc7d1139c0cd96c1268cadfd9d"
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
-"@types/node@*":
+"@types/node@*", "@types/node@^12.11.1":
   version "12.12.6"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.6.tgz#a47240c10d86a9a57bb0c633f0b2e0aea9ce9253"
   integrity sha512-FjsYUPzEJdGXjwKqSpE0/9QEh6kzhTAeObA54rn6j3rR4C/mzpI9L0KNfoeASSPMMdxIsoJuCLDWcM/rVjIsSA==
-
-"@types/node@~8.9.4":
-  version "8.9.5"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.9.5.tgz#162b864bc70be077e6db212b322754917929e976"
-  integrity sha512-jRHfWsvyMtXdbhnz5CVHxaBgnV6duZnPlQuRSo/dm/GnmikNcmZhxIES4E9OZjUmQ8C+HCl4KJux+cXN/ErGDQ==
 
 "@types/q@^0.0.32":
   version "0.0.32"
@@ -2155,7 +2150,7 @@ code-point-at@^1.0.0:
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
   integrity sha1-DQcLTQQ6W+ozovGkDi7bPZpMz3c=
 
-codelyzer@^5.0.0:
+codelyzer@^5.1.2:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/codelyzer/-/codelyzer-5.2.0.tgz#b0ee573a12779c996090e596c5c1755479d83758"
   integrity sha512-izfUfhEOOgAizszPlEDxo71DK/C4wprZw0vkY6UWcOSTQvN1JyfXf9DXwaV7WX+/JC+hH0ShXfdtGLA9Rca7LA==
